@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309712489908",
+    "project_id": "pgproject-a9ce1",
+    "storage_bucket": "pgproject-a9ce1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309712489908:android:d54b21bfe2970e85f1b6e1",
+        "android_client_info": {
+          "package_name": "com.example.pj_pg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR4ZcnRd9LgTZ1pzdvnLCLVJvhh1AKXAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
